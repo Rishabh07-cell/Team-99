@@ -1,0 +1,36 @@
+/* General styling for the body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4; /* Light gray background */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Full viewport height */
+    margin: 0;
+}
+
+/* Styling for the main container */
+.container {
+    background-color: #fff; /* White background for contrast */
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+    width: 400px; /* Fixed width for container */
+    text-align: center;
+}
+
+/* Utility class to hide elements */
+.hidden {
+    display: none;
+}
+
+/* Styling for the table */
+table {
+    width: 100%; /* Full width of the container */
+    border-collapse: collapse; /* Removes spacing between table cells */
+}
+
+/* Styling for table header and data cells */
+th, td {
+    padding: 10px;
+    border: 1px solid #ccc; /* Light border around cells */
+}

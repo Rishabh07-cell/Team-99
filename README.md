@@ -98,7 +98,7 @@ The Student Gradebook Project is a web application designed to help educators ma
 5. Open a pull request.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the APACHE 2.0 LICENSE.
 ```
 
 Feel free to copy and paste this into your README file. If you need any more help, just let me know!

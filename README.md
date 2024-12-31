@@ -50,6 +50,9 @@ This project provides a flexible way to manage student data, including their gra
    git push origin feature-branch
    ```
 ![Dashboard Screenshot](Dashboard.png)
+![Dashboard Screenshot]()
+![Dashboard Screenshot]()
+
 
 5. Open a pull request.
 

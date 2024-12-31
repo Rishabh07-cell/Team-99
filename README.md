@@ -64,12 +64,16 @@ The Student Gradebook Project is a web application designed to help educators ma
   - JavaScript (for validation and interactivity)
 
 - **Backend**:
-  - Add details if you’re using any backend (e.g., Node.js, Django).
+  - JAVA.
   
 - **Database**:
-  - Specify the database you use (e.g., MySQL, MongoDB).
+  - MYSQL.
 
 ## Project Structure
+  -Login
+  -profile
+  -dashboard
+  -grade
 
 
 ## Contributing

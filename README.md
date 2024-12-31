@@ -49,7 +49,7 @@ This project provides a flexible way to manage student data, including their gra
    ```bash
    git push origin feature-branch
    ```
-![Dashboard Screenshot](assets/images/dashboard.png)
+![Dashboard Screenshot](Screenshot 2024-12-31 145931.png)
 
 5. Open a pull request.
 

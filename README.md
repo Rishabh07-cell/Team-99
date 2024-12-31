@@ -34,6 +34,43 @@ This project provides a flexible way to manage student data, including their gra
    npm start
    ```
 2. Open your browser and navigate to `http://localhost:3000` to use the application.
+3. # Student Gradebook Project
+
+## Overview
+The Student Gradebook Project is a web application designed to help educators manage and track student grades efficiently. It provides an intuitive interface for adding, editing, and viewing student grades, along with features for managing subjects and generating reports.
+
+## Features
+- **User Authentication**:
+  - Login and Registration pages with validation.
+  - User profiles for personalized settings.
+
+- **Gradebook Management**:
+  - Add, edit, and delete student grades.
+  - View grade summaries and detailed reports.
+
+- **Dashboard and Reports**:
+  - Interactive dashboard with visual charts.
+  - Export grade data in CSV format.
+
+- **Responsive Design**:
+  - Fully responsive and optimized for various screen sizes.
+  - Built with Bootstrap for consistent styling.
+
+## Technologies Used
+- **Frontend**:
+  - HTML5
+  - CSS3
+  - Bootstrap
+  - JavaScript (for validation and interactivity)
+
+- **Backend**:
+  - Add details if you’re using any backend (e.g., Node.js, Django).
+  
+- **Database**:
+  - Specify the database you use (e.g., MySQL, MongoDB).
+
+## Project Structure
+
 
 ## Contributing
 1. Fork the repository.

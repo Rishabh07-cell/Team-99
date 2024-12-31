@@ -34,7 +34,40 @@ This project provides a flexible way to manage student data, including their gra
    npm start
    ```
 2. Open your browser and navigate to `http://localhost:3000` to use the application.
-3. # Student Gradebook Project
+3. # Form Validation for User ID and Password
+
+This project includes a simple yet effective form validation system for a login form. It validates the **User ID** and **Password** fields on the client side using JavaScript.
+
+## Features
+
+1. **User ID Validation**:
+   - Must be alphanumeric.
+   - Length: 5–15 characters.
+
+2. **Password Validation**:
+   - Minimum length of 8 characters.
+   - At least one uppercase letter.
+   - At least one lowercase letter.
+   - At least one numeric digit.
+   - At least one special character (e.g., `@`, `#`, `$`, etc.).
+
+3. **Real-Time Error Messages**:
+   - Displays validation errors next to the respective input fields.
+
+4. **Responsive Design**:
+   - Uses Bootstrap for styling, ensuring compatibility across devices.
+
+## Technologies Used
+
+- **HTML5**: For form structure.
+- **CSS3**: For basic styling.
+- **Bootstrap 5**: For responsive design.
+- **JavaScript**: For validation logic.
+
+## File Structure
+
+
+4. # Student Gradebook Project
 
 ## Overview
 The Student Gradebook Project is a web application designed to help educators manage and track student grades efficiently. It provides an intuitive interface for adding, editing, and viewing student grades, along with features for managing subjects and generating reports.
